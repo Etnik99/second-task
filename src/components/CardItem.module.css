@@ -1,0 +1,31 @@
+.card {
+  background-color: rgb(253, 253, 253);
+  width: 250px;
+  text-align: center;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+.domain {
+  color: black;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.price {
+  font-size: 20px;
+  padding-top: 20px;
+}
+.content {
+  font-family: monospace;
+  font-size: 13px;
+  color: rgb(128, 128, 128);
+}
+.btn {
+  color: blue;
+  border: 0.5px solid blue;
+  width: 200px;
+  background-color: white;
+  border-radius: 5px;
+  font-size: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

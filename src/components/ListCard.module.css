@@ -1,0 +1,8 @@
+.ListCard {
+  max-width: 1200px;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

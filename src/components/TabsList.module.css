@@ -1,0 +1,33 @@
+.tabList {
+  max-width: 1200px;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.tabItem {
+  padding: 10px 20px;
+  color: grey;
+  list-style: none;
+  cursor: pointer;
+  font-size: 14px;
+}
+.activeTabs {
+  padding: 10px 20px;
+  color: grey;
+  list-style: none;
+  cursor: pointer;
+  font-size: 14px;
+  border-bottom: 2px solid blue;
+}
+.content h2 {
+  font-size: 50px;
+}
+
+.activeContent {
+  color: blue;
+  font-size: 30px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
