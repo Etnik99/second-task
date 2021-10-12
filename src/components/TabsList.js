@@ -2,7 +2,6 @@ import style from './TabsList.module.css';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import ListCard from './ListCard';
 import { useState } from 'react';
-import DropList from './FAQ';
 
 const CARD_DATA = [
     {

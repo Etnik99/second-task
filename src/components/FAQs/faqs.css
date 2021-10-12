@@ -1,0 +1,66 @@
+.all-faqs {
+  margin: 5% 10%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+.main-faq {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 25px;
+}
+
+.main-faq .first {
+  display: flex;
+  align-items: center;
+}
+.main-faq .first .icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  color: #427cff;
+  margin-right: 15px;
+}
+.main-faq .first h5 {
+  font-size: 20px;
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+.main-faq .first small {
+  color: #555;
+  font-size: 15px;
+}
+.main-faq .arrow {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.all-faqs .single-question {
+  padding: 15px 25px;
+  border-top: 1px solid #ddd;
+}
+.all-faqs .answer {
+  font-size: 16px;
+  color: #555;
+}
+.all-faqs .question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.all-faqs .question h6 {
+  font-weight: normal;
+  font-size: 17px;
+}
+.all-faqs .question button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  border: 0;
+  background: none;
+}
